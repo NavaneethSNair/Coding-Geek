@@ -60,3 +60,7 @@ a.btn:hover {
 	-moz-transition: all 0.4s;
 	transition: all 0.4s;
   }
+
+.card:hover {
+	transform: scale(1.25);
+}  
